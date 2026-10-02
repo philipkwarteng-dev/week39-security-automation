@@ -1,0 +1,5 @@
+Oct 10 06:25:01 server sshd[1001]: Failed password for invalid user admin from 192.168.1.50 port 40122
+Oct 10 06:25:05 server sshd[1002]: Failed password for root from 192.168.1.50 port 40124
+Oct 10 06:26:10 server sshd[1003]: Accepted password for user1 from 10.0.0.5 port 40126
+CORRUPT_LOG_LINE_MISSING_DATA
+Oct 10 06:27:00 server sshd[1004]: Failed password for root from 172.16.0.12 port 40130

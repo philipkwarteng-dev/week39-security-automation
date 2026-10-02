@@ -1,0 +1,22 @@
+========================================
+ITSX26 - AUTOMATED SECURITY REPORT
+========================================
+Datakällor analyserade:
+- data/auth.log
+- data/access.log
+- data/suspicious_ips.txt
+
+Mönster och Statistik:
+- Misslyckade autentiseringsförsök (auth.log): 0
+- HTTP 401/403 Felkoder (access.log): 0
+- Totalt antal korrupta/överhoppade rader: 0
+
+IP-Analys:
+- Unika observerade IP-adresser: 0 ()
+- Träffar mot indikatorlista (suspicious_ips.txt): 0
+- Matched IPs: Inga
+
+Begränsning:
+Detta skript identifierar endast enkel mönstermatchning. En träff mot 
+indikatorlistan innebär inte en bekräftad incident, utan kräver vidare manuell verifiering.
+========================================
